@@ -1,0 +1,15 @@
+# Entornos virtuales
+venv/
+env/
+
+# Archivos del sistema
+__pycache__/
+*.pyc
+
+# Archivos temporales
+*.log
+.DS_Store
+
+# Archivos de configuración personal
+.idea/
+.vscode/
